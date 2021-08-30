@@ -1,3 +1,2 @@
 # flask_assignments
-data
 
